@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/IU0dBpyeihc/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-transform: uppercase;
+}
+#tabla, td{
+    border: 2px solid white;
+    background-color: rgba(215, 211, 218, 0.452);
+}
+#tabla{
+    table-layout: initial;
+    width: 100%;
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+#Contenedor{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+
+}
